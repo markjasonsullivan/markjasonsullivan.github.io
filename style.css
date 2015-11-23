@@ -1,5 +1,5 @@
 body {
-    background-color: #1e0212 !important
+    background-color: #212121 !important /*1e0212*/
   }
 
 h1 {
@@ -12,4 +12,13 @@ p {
 
 .center-pic {
   text-align: center;
+}
+
+.footer-images img {
+       vertical-align:bottom;
+       border:0;
+}
+
+#wrap {
+  padding-top: 60px;
 }

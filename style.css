@@ -11,14 +11,14 @@ p {
   }
 
 .center-pic {
-  text-align: center;
-}
+    text-align: center;
+  }
 
 .footer-images img {
-       vertical-align:bottom;
-       border:0;
-}
+    vertical-align:bottom;
+    border:0;
+  }
 
 #wrap {
-  padding-top: 60px;
-}
+    padding-top: 60px;
+  }

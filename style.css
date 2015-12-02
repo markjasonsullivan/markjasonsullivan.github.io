@@ -10,11 +10,7 @@ p {
     color: #5FE0D4
   }
 
-.center-pic {
-    text-align: center;
-  }
-
-.footer-images img {
+.align-bottom img {
     vertical-align:bottom;
     border:0;
   }

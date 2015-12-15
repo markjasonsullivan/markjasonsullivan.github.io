@@ -1,9 +1,9 @@
 body {
-    background-color: #212121 !important /*1e0212*/
+    background-color: #212121 /*1e0212*/
   }
 
 h1 {
-    color: #5FE0D4 !important
+    color: #5FE0D4
   }
 
 p {
@@ -19,5 +19,11 @@ p {
     padding-top: 60px;
   }
 
-.grow { transition: all .1s ease-in-out; }
-.grow:hover { transform: scale(1.08); }
+/*Growing Images*/
+.grow {
+    transition: all .1s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.08);
+}

@@ -14,7 +14,7 @@ h1, p {
 
 /*Growing Images*/
 .grow {
-    transition: all .1s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 .grow:hover {
     transform: scale(1.08);
